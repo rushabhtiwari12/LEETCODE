@@ -41,5 +41,7 @@ public class LC33_searchInRotatedSortedArray{
         }
         LC33_searchInRotatedSortedArray obj = new LC33_searchInRotatedSortedArray();
         System.out.println(obj.findElement(arr, target));
+
+        sc.close();
     }
 }

@@ -52,5 +52,7 @@ public class LC540_SingleEle_in_SortedArray {
         LC540_SingleEle_in_SortedArray obj  = new LC540_SingleEle_in_SortedArray();
         System.out.println("The minimum element in a rotated sorted array");
         System.out.println(obj.singleElement(arr));
+
+        sc.close();
     }
 }

@@ -36,5 +36,7 @@ public class LC153_findMinEl_rotated_sorted_array {
         LC153_findMinEl_rotated_sorted_array obj  = new LC153_findMinEl_rotated_sorted_array();
         System.out.println("The minimum element in a rotated sorted array");
         System.out.println(obj.Min_Element(arr));
+
+        sc.close();
     }
 }
