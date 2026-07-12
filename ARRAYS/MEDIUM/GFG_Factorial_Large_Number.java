@@ -28,6 +28,8 @@ public class GFG_Factorial_Large_Number {
 
         GFG_Factorial_Large_Number obj = new GFG_Factorial_Large_Number();
         System.out.println(obj.factorialLargeNo(n));
+
+        sc.close();
         
     }
 }

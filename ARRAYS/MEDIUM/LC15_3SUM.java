@@ -52,5 +52,7 @@ class LC15_3SUM{
         }
         LC15_3SUM obj = new  LC15_3SUM();
         System.out.println(obj.threeSum(arr));
+
+        sc.close();
     }
 }

@@ -37,6 +37,8 @@ public class LC11_containerWithMostWater {
         }
         LC11_containerWithMostWater obj = new LC11_containerWithMostWater();
         System.out.println(obj.maxArea(nums));
+
+        sc.close();
     }
 
 }
