@@ -1,4 +1,4 @@
-package MEDIUM;
+package ARRAYS.MEDIUM;
 import java.util.Scanner;
 
     class Maximum_Product_Subarray{

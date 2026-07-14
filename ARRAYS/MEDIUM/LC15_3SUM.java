@@ -1,4 +1,4 @@
-package MEDIUM;
+package ARRAYS.MEDIUM;
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.List;
