@@ -1,4 +1,4 @@
-package MEDIUM;
+package ARRAYS.MEDIUM;
 import java.util.*;
 public class GFG_Factorial_Large_Number {
 
