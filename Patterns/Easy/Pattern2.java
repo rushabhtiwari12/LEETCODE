@@ -25,12 +25,9 @@ public class Pattern2 {
         }
     
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the Size of the pattern you want to get printed");
-        int n=sc.nextInt();
-        pattern2(n);
-        sc.close();
-    }
+    
+        
+
+        
     
 }
