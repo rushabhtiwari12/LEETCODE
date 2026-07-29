@@ -1,4 +1,4 @@
-package String;
+package String.MEDIUM;
 
 import java.util.Arrays;
 import java.util.Scanner;
